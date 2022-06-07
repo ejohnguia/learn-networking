@@ -7,15 +7,15 @@ Learning networking on my free time. I have taken a networking course in univers
 
 * [Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep]](https://www.youtube.com/watch?v=qiQR5rTSshw)
 
-* [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
-
 ### Textbooks
 
 * [Computer Networking: A Top-Down Approach 8th edition](https://gaia.cs.umass.edu/kurose_ross/eighth.php)
+  
+  * [Online Lectures](https://gaia.cs.umass.edu/kurose_ross/lectures.php)
 
 * [Network Warrior, 2nd Edition](https://www.oreilly.com/library/view/network-warrior-2nd/9781449307974/)
 
-* [Beej’s Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_a4_c_2.pdf)
+* [Beej’s Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
 * [Hands-On Network Programming with C](https://www.packtpub.com/product/hands-on-network-programming-with-c/9781789349863)
 
