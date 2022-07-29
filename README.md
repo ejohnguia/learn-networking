@@ -2,7 +2,7 @@
 
 # Learn Networking
 
-Learning networking on my free time. I have taken a networking course in university, but I have not been able to get the most out of it. This repo will serve as a journal of sorts as well as to keep track of my progress.
+Learning networking on my free time. This repo will serve as a location for networking projects that I will be running into as I progress.
 
 # Resources
 
