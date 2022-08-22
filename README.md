@@ -23,3 +23,5 @@ Learning networking on my free time. This repo will serve as a location for netw
 -   [Hands-On Network Programming with C](https://www.packtpub.com/product/hands-on-network-programming-with-c/9781789349863)
 
 -   [The Illustrated Network, 2nd Edition](https://www.oreilly.com/library/view/the-illustrated-network/9780128110287/)
+
+-   [Hands-On Network Programming with C# and .NET Core](https://www.packtpub.com/product/hands-on-network-programming-with-c-and-net-core/9781789340761)
