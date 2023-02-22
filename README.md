@@ -9,6 +9,7 @@ Learning networking on my free time. This repo will serve as a location for netw
 ### YouTube Videos
 
 -   [Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep]](https://www.youtube.com/watch?v=qiQR5rTSshw)
+-   [Neso Academy: Computer Networks](https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
 ### Textbooks
 
